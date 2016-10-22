@@ -1,7 +1,8 @@
+console.log("Test1");
+
 var React = require("react");
 var ReactDOM = require("react-dom");
 
-console.log("Test1");
 console.log(React);
 console.log("Test2");
 
